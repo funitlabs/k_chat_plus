@@ -11,7 +11,7 @@ dependencies:
   decimal: ^3.1.0
   flutter:
     sdk: flutter
-  intl: ^0.20.1
+  intl: any
   shimmer: ^3.0.0
 
 dev_dependencies:
